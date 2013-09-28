@@ -58,15 +58,15 @@ body {
     right:0px;
     margin:-5px auto;
     z-index:100;
-    background:#00aced;
+    background:#282828;
     /*opacity:0;
     -webkit-transition-duration: 1s;
     -moz-transition-duration: 1s;
     -o-transition-duration: 1s;
     transition-duration: 1s;*/
 }
-/*
-#mainVideo:hover ~ #controlsOptions {
+
+/*#mainVideo:hover ~ #controlsOptions {
     opacity: 1;
     -webkit-transition-duration: 0.8s;
     -moz-transition-duration: 0.8s;
