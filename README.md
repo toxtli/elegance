@@ -1,13 +1,13 @@
-Popcorn
+Elegance
 =======
 
-A responsive &amp; browser compatible video player made with purely Javascript and CSS. 
+A responsive &amp; minimalist browser compatible video player made with Javascript and CSS. 
 
 Objectives
 ====
 
-I wanted to make something really simplistic and not give designers/developers/newbies the worry of focusing on the Javascript and more focus on the actual style of the projet.
-The CSS is so easy to understand and even if you have very little basic Javascript knowledge, you'll be able to grasp what's what in the main JS file.
+Based on the Popcorn video player I decided to give it a minimalist touch so I modified it's easy to
+use and responsive, give an elegant touch to your videos.
 
 Install
 ===
