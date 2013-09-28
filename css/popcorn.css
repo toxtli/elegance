@@ -52,30 +52,28 @@ body {
 }
 /* Menu for video ================*/
  #controlsOptions {
-    position: absolute;
-    width:90%;
-    bottom:20px;
+    width:100%;
+    bottom:0px;
     left:0px;
     right:0px;
-    margin:0 auto;
+    margin:-5px auto;
     z-index:100;
-    -webkit-border-radius:4px;
-    -moz-border-radius:4px;
-    border-radius:4px;
     background:#00aced;
-    opacity:0;
+    /*opacity:0;
     -webkit-transition-duration: 1s;
     -moz-transition-duration: 1s;
     -o-transition-duration: 1s;
-    transition-duration: 1s;
+    transition-duration: 1s;*/
 }
+/*
 #mainVideo:hover ~ #controlsOptions {
     opacity: 1;
     -webkit-transition-duration: 0.8s;
     -moz-transition-duration: 0.8s;
     -o-transition-duration: 0.8s;
     transition-duration: 0.8s;
-}
+}*/
+
 #controlsOptions:hover {
     opacity: 1;
 }
