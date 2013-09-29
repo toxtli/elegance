@@ -1,14 +1,13 @@
 /*
  *
- * Popcorn Version 0.3
- * A run through of what's what.
+ * Based on the Popcorn player by @joericho
  * 
- * Made by @joericho
+ * Created by @Diego_WiFi
  * Licensed under MIT
  *
  */
 
-/* Popcorn CSS
+/* Elegance CSS
 ----------------------------------- */
 
 /* Hard Reset */
@@ -21,7 +20,7 @@
          box-sizing: border-box;
 }
 body {
-    background:#9a9e9c;
+    background:#fff;
     padding-top:40px;
 }
 /* The wrapper of the Video UI */
@@ -108,7 +107,7 @@ input[type='range']#slider {
 }
 #curtimetext, #durtimetext {
     padding:10px;
-    font:16px"Helvetica Neue";
+    font:16px"Arial";
     letter-spacing: 1px;
     color:#fff;
     width:9%;
@@ -154,7 +153,7 @@ input[type='range']#slider::-webkit-slider-thumb:active {
 /* Landscape mobile & down
 ===============================*/
 @media (max-width: 480px) {
-    #controlsOptions {
+     #controlsOptions {
         display: none;
     }
 }
